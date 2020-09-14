@@ -1,0 +1,10 @@
+{
+    "description":"קלרינט רועש",
+    "id":5,
+    "imagePath":"./img/clarinet.jpg",
+    "instrumentOrders":null,
+    "instrumenttype":{"id":1,"name":"נשיפה"},
+    "name":"קלרינט",
+    "price":1400,
+    "typeID":1
+}

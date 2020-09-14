@@ -1,0 +1,10 @@
+{
+    "description":"חצוצרה ארוכה",
+    "id":3,
+    "imagePath":"./img/trumpet.jpg",
+    "instrumentOrders":null,
+    "instrumenttype":{"id":1,"name":"נשיפה"},
+    "name":"חצוצרה",
+    "price":1500,
+    "typeID":1
+}

@@ -1,4 +1,9 @@
 img {
-    height:150px;
+    height:130px;
     width:100%;
+    border-radius: 50px;
+}
+.card{
+    margin: 10px;
+    border-radius: 5%;
 }

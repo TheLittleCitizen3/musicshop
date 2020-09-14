@@ -1,0 +1,10 @@
+{
+    "description":"טרומבון קטן",
+    "id":4,
+    "imagePath":"./img/tromb.jpg",
+    "instrumentOrders":null,
+    "instrumenttype":{"id":1,"name":"נשיפה"},
+    "name":"טרומבון",
+    "price":2400,
+    "typeID":1
+}

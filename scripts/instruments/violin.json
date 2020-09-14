@@ -1,0 +1,10 @@
+{
+    "description":"כינור קטן",
+    "id":6,
+    "imagePath":"",
+    "instrumentOrders":null,
+    "instrumenttype":{"id":2,"name":"מיתר"},
+    "name":"קלרינט",
+    "price":1400,
+    "typeID":2
+}

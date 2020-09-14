@@ -1,0 +1,10 @@
+{
+    "description":"חליל יפה",
+    "id":1,
+    "imagePath":"./img/piper.jpg",
+    "instrumentOrders":null,
+    "instrumenttype":{"id":1,"name":"נשיפה"},
+    "name":"חליל",
+    "price":50,
+    "typeID":1
+}

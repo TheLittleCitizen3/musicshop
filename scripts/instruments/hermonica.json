@@ -1,0 +1,10 @@
+{
+    "description":"מפוחית יפה",
+    "id":2,
+    "imagePath":"./img/hermonica.jpg",
+    "instrumentOrders":null,
+    "instrumenttype":{"id":1,"name":"נשיפה"},
+    "name":"מפוחית",
+    "price":35,
+    "typeID":1
+}
